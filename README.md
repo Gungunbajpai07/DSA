@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Gungunbajpai07/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gungunbajpai07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gungunbajpai07/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Gungunbajpai07/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gungunbajpai07/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3731-find-missing-elements](https://github.com/Gungunbajpai07/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -17,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Gungunbajpai07/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gungunbajpai07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gungunbajpai07/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Gungunbajpai07/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gungunbajpai07/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Gungunbajpai07/DSA/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Gungunbajpai07/DSA/tree/master/0088-merge-sorted-array) |
 | [3731-find-missing-elements](https://github.com/Gungunbajpai07/DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
