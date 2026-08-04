@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gungunbajpai07/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gungunbajpai07/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gungunbajpai07/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3731-find-missing-elements](https://github.com/Gungunbajpai07/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,8 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Gungunbajpai07/DSA/tree/master/0015-3sum) |
+| [3731-find-missing-elements](https://github.com/Gungunbajpai07/DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gungunbajpai07/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Gungunbajpai07/DSA/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
