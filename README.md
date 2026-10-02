@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gungunbajpai07/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gungunbajpai07/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Gungunbajpai07/DSA/tree/master/0283-move-zeroes) |
+| [0904-fruit-into-baskets](https://github.com/Gungunbajpai07/DSA/tree/master/0904-fruit-into-baskets) |
 | [3731-find-missing-elements](https://github.com/Gungunbajpai07/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/Gungunbajpai07/DSA/tree/master/0904-fruit-into-baskets) |
 | [3731-find-missing-elements](https://github.com/Gungunbajpai07/DSA/tree/master/3731-find-missing-elements) |
 ## Quicksort
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gungunbajpai07/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Gungunbajpai07/DSA/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
